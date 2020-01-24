@@ -4,6 +4,8 @@ Application android de type Bibliothèque
 CONSIGNES :
   https://raievskc.gricad-pages.univ-grenoble-alpes.fr/enseignement/CASIR/AndroidCASIR/Projet/
   
+  http://www.modelia.org/html/9_080522_formationModeliaMai2008/lesSupports/2%20-%20Expression%20de%20besoins,%20definir%20un%20besoin%20informatique_DoussotD.pdf
+  
 TODO : 
 
     Dossier d’analyse-conception comprenant :
