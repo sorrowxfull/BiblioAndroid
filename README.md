@@ -22,7 +22,7 @@ Le cahier des charges devra comporter, a minima :
     Un dossier analyse-conception de l’étude du besoin incluant :
 
         Le diagramme de contexte, et s’il y lieu la description des processus métier à l’aide d’un diagramme d’activité.
-
+        http://1.bp.blogspot.com/-_7iMnmw5SE8/UnioHE7G5rI/AAAAAAAAAoc/-ax4lx856Lc/s1600/Use+Case.jpg
         Présentation des acteurs du système.
 
         Le diagramme des cas d’utilisation.
