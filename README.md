@@ -28,6 +28,9 @@ Le cahier des charges devra comporter, a minima :
         Le diagramme des cas d’utilisation.
 
         Une description détaillée d’au moins trois cas d’utilisation. Pour chaque cas présenté les maquettes et les diagrammes de séquence système faisant apparaître les opérations systèmes.
+          - Ajouter un livre
+          - Gérer l'état d'un livre
+          - 
 
         Un diagramme de classe de « niveau 1 », faisant apparaître les classes métiers avec les données manipulées.
 
